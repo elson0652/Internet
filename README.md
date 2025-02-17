@@ -76,7 +76,7 @@ Clona el repositorio:
 
 bash
 Copy
-git clone https://github.com/jzubietas/validator_react.git
+git clone https://github.com/elson0652/Internet.git
 Navega al directorio del proyecto:
 
 bash
@@ -124,9 +124,9 @@ Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archiv
 Contacto
 Si tienes alguna pregunta o comentario, no dudes en contactarme:
 
-Nombre: Jhonathan Zubieta
+Nombre: Elson Abgulo
 
-Email: [jizs.contact@gmail.com]
+Email: [angels1203@outlook.es]
 
 GitHub: tu-usuario
 
